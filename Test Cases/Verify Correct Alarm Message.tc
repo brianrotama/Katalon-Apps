@@ -9,5 +9,6 @@ Given that user has started an application
 And he navigates the application to Activity form
 When he taps on the Custom Dialog button
 Then the correct dialog message should be displayed</comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>7863351b-9de3-4c4f-823d-9497925136c3</testCaseGuid>
 </TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Flight OW - Lion Air - CGK - DPS</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>140865a9-1557-4160-a34d-08e570d3df38</testCaseGuid>
+</TestCaseEntity>
