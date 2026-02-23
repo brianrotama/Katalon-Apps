@@ -135,5 +135,3 @@ Mobile.verifyElementVisible(findTestObject('Object Repository/Application/tiket.
 Mobile.tap(findTestObject('Object Repository/Application/tiket.com/SRP/Button Nggak dulu deh'),2)
 
 Mobile.closeApplication()
-
-Mobile.closeApplication()
